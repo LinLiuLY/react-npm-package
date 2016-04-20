@@ -1,0 +1,28 @@
+{
+  "name": "react-test",
+  "version": "0.0.1",
+  "description": "learn react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/liulin1987315/react-workshop.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Liu Lin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liulin1987315/react-workshop/issues"
+  },
+  "homepage": "https://github.com/liulin1987315/react-workshop#readme",
+  "dependencies": {
+    "diff-json": "^0.1.11"
+  },
+  "devDependencies": {
+    "validate-vat": "^0.3.2"
+  }
+}
